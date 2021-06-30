@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Apriori.Core.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Apriori.Core.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Apriori.Core.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apriori.Core.Model/1.0.0": {
+      "type": "project",
+      "path": "../Apriori.Model/Apriori.Core.Model.csproj",
+      "msbuildProject": "../Apriori.Model/Apriori.Core.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Apriori.Core.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kubilay.bayraktar\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Challenge\\skedda-technical-challenge\\Apriori\\Apriori.Core.Parser\\Apriori.Core.Parser.csproj",
+      "projectName": "Apriori.Core.Parser",
+      "projectPath": "D:\\Challenge\\skedda-technical-challenge\\Apriori\\Apriori.Core.Parser\\Apriori.Core.Parser.csproj",
+      "packagesPath": "C:\\Users\\kubilay.bayraktar\\.nuget\\packages\\",
+      "outputPath": "D:\\Challenge\\skedda-technical-challenge\\Apriori\\Apriori.Core.Parser\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kubilay.bayraktar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Challenge\\skedda-technical-challenge\\Apriori\\Apriori.Model\\Apriori.Core.Model.csproj": {
+              "projectPath": "D:\\Challenge\\skedda-technical-challenge\\Apriori\\Apriori.Model\\Apriori.Core.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\bin\Debug\netcoreapp3.1\Apriori.Core.deps.json
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\bin\Debug\netcoreapp3.1\Apriori.Core.dll
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\bin\Debug\netcoreapp3.1\Apriori.Core.pdb
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.AssemblyInfoInputs.cache
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.AssemblyInfo.cs
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.csproj.CoreCompileInputs.cache
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.dll
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.pdb
+D:\Challenge\skedda-technical-challenge\Apriori\Apriori.Core\obj\Debug\netcoreapp3.1\Apriori.Core.csprojAssemblyReference.cache

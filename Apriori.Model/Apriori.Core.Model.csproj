@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Apriori.Core.Model</AssemblyName>
+    <RootNamespace>Apriori.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
